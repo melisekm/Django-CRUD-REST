@@ -1,0 +1,18 @@
+{
+    "order_type_available_values": [
+        "asc",
+        "desc"
+    ],
+    "companies_order_by_available_values": [
+        "cin",
+        "name",
+        "br_section",
+        "address_line",
+        "last_update",
+        "or_podanie_issues_count",
+        "znizenie_imania_issues_count",
+        "likvidator_issues_count",
+        "konkurz_vyrovnanie_issues_count",
+        "konkurz_restrukturalizacia_actors_count"
+    ]
+}

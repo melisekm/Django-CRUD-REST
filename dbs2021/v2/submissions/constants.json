@@ -1,0 +1,20 @@
+{
+    "available_columns": [
+        "id",
+        "br_court_name",
+        "kind_name",
+        "cin",
+        "registration_date",
+        "corporate_body_name",
+        "br_section",
+        "br_insertion",
+        "text",
+        "street",
+        "postal_code",
+        "city"
+    ],
+    "order_type_available_values": [
+        "asc",
+        "desc"
+    ]
+}
